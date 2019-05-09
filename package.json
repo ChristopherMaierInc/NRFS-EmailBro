@@ -13,6 +13,7 @@
   "author": "Christopher Maier <mail@christophermaier.com.au>",
   "license": "MIT",
   "dependencies": {
+    "cookie-session": "^1.3.3",
     "express": "^4.16.4",
     "g": "^2.0.1",
     "mongoose": "^5.5.5",
